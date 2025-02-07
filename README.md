@@ -1,5 +1,5 @@
 
-# Code Demo  
+# Vinícius Hector Ferreira - Code Demonstration
 
 ### 1. Introduction  
 Welcome to my demonstration repository. Here, you can find the best coding snippets for multiple tasks. I usually code in Python for data analysis and GIS. R is preferred for econometrics. I also use Jupyter notebooks for better commenting and I try to keep all my works as organized as I can.  
