@@ -32,3 +32,4 @@ Link: https://github.com/HecVini/code_demo/blob/main/calzada_etal_replication.r
   This R script creates a **cartogram visualizing Brazil's 2022 presidential election results. The cartogram solves the "land doesn’t vote" problem by scaling geographic regions according to the number of votes, showing regional voting margins proportionally.  
   I explained the main findings in [this X thread](https://x.com/hec_vini/status/1577553930837524481/photo/1). This project highlights my **data visualization skills** — making visually appealing charts is crucial for communicating research findings effectively.  
 Link: https://github.com/HecVini/code_demo/blob/main/dorling_map_elections2022.R
+![Final Result](Eleicoes2022_RegiaoImediata.png "Map result")
